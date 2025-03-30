@@ -1,4 +1,3 @@
-Here’s a clean and professional **README.md** for your project, including a **link to your dev.to blog** for further details.  
 
 ---
 

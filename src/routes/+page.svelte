@@ -50,7 +50,7 @@
 
 	/>
 </div>
-<div class="flex justify-center">
+<div class="flex justify-center mt-4">
 {#if showCaptcha}
 		<Turnstile siteKey={import.meta.env.VITE_TURNSTILE_SITEKEY} />
 {/if}
